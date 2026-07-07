@@ -33,12 +33,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-`requirements.txt`:
-
-```
-openpyxl>=3.1.0
-```
-
 ---
 
 ## Usage
